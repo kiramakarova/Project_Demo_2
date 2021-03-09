@@ -1,0 +1,22 @@
+img {
+    width: 130px;
+    height: 130px;
+}
+body {
+    background-image: url("images/Background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#MyParty {
+    /* display: flex; */
+    height: auto;
+    align-items: center;
+    float: left;
+} 
+#EnemyParty {
+    /* display: flex; */
+    height: auto;
+    align-items: center;
+    float: right;
+} 
